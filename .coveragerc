@@ -1,0 +1,16 @@
+[run]
+    include = *digitalbooth/apps/*
+
+omit=
+    */tests/*
+    digitalbooth/apps/authentication/apps.py
+    digitalbooth/apps/profiles/apps.py
+    */migrations/*
+    digitalbooth/wsgi.py
+    digitalbooth/settings.py
+    digitalbooth/utils/*
+    digitalbooth/schema.py
+    digitalbooth/urls.py
+
+[report]
+show_missing=True

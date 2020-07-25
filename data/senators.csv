@@ -1,0 +1,68 @@
+id,created_at,updated_at,created_by,modified_by,name,img_url,county,party,field_status
+1,2020-03-20 14:28:23,2020-03-20 14:28:25,1,1,Sen (Dr.) Ltumbesi Lelegwe,http://www.parliament.go.ke/sites/default/files/2017-10/41b4b772185780c545f480dd3c440a9c_M.jpg,Samburu,JP,Elected
+2,2020-03-21 14:28:23,2020-03-21 14:28:25,1,1,Sen. (Dr.) Ali Abdullahi Ibrahim,http://www.parliament.go.ke/sites/default/files/2017-10/28835731112bf174e8f5ff882b876d47_M.jpg,Wajir,JP,Elected
+3,2020-03-22 14:28:23,2020-03-22 14:28:25,1,1,Sen. (Dr.) Inimah Getrude Musuruve,http://www.parliament.go.ke/sites/default/files/2017-10/17bf9e47d70ff47da72e014250337d9b_M.jpg,Kakamega Delegation,ODM,Nominated
+4,2020-03-23 14:28:23,2020-03-23 14:28:25,1,1,Sen. (Dr.) Langat Christopher Andrew,http://www.parliament.go.ke/sites/default/files/2017-10/b15e8a343e5728d8313eac39cd22374b_M.jpg,Bomet,JP,Elected
+5,2020-03-24 14:28:23,2020-03-24 14:28:25,1,1,Sen. (Dr.) Milgo Alice Chepkorir,http://www.parliament.go.ke/sites/default/files/2017-10/34c96fc26927fda6b9e4654ad88c4272_M.jpg,Bomet Delegation,JP,Nominated
+6,2020-03-25 14:28:23,2020-03-25 14:28:25,1,1,Sen. (Dr.) Zani Agnes Philomena,http://www.parliament.go.ke/sites/default/files/2017-10/f8bcd4658f70bd8a859b57787d226a7b_M.jpg,Kwale Delegation,ODM,Nominated
+7,2020-03-26 14:28:23,2020-03-26 14:28:25,1,1,Sen. (Eng.) Ephraim Mwangi,http://www.parliament.go.ke/sites/default/files/2017-10/5a08b7b455c29c304dabcd194521e2e1_M.jpg,Nyeri,JP,Elected
+8,2020-03-27 14:28:23,2020-03-27 14:28:25,1,1,Sen. (Prof.) Imana Malachy Ekal,http://www.parliament.go.ke/sites/default/files/2017-10/7ffa0a6eb51c9388ce14c9e4c32eb6e0_M.jpg,Turkana,ODM,Elected
+9,2020-03-28 14:28:23,2020-03-28 14:28:25,1,1,Sen. (Prof.) Ongeri Samson Kegengo,http://www.parliament.go.ke/sites/default/files/2017-10/b43bdffc2f2f09ef0aab635ab13a3417_M.jpg,Kisii,ODM,Elected
+10,2020-03-29 14:28:23,2020-03-29 14:28:25,1,1,Sen. Adan Dullo Fatuma,http://www.parliament.go.ke/sites/default/files/2017-10/c76b430f13f697c7e8f6389e61fe2e85_M.jpg,Isiolo,PDR,Elected
+11,2020-03-30 14:28:23,2020-03-30 14:28:25,1,1,Sen. Nderitu John Kinyua,http://www.parliament.go.ke/sites/default/files/2017-10/6f98e5ea5d6baacc1876227d18ec1d1c_M.jpg,Laikipia,JP,Elected
+12,2020-03-31 14:28:23,2020-03-31 14:28:25,1,1,Sen. Ndwiga Peter Njeru,http://www.parliament.go.ke/sites/default/files/2017-10/7a7a1b5b62bd91f168816ae073e91b87_M.jpg,Embu,JP,Elected
+13,2020-04-01 14:28:23,2020-04-01 14:28:25,1,1,Sen. Nyamunga Rose Ogendo,http://www.parliament.go.ke/sites/default/files/2017-10/1217775d545a22a59038b9e66093688c_M.jpg,Kisumu Delegation,ODM,Nominated
+14,2020-04-02 14:28:23,2020-04-02 14:28:25,1,1,Sen. Olekina Ledama,http://www.parliament.go.ke/sites/default/files/2017-10/836e979ea538bc0b7dfe0d21f5f98643_M.jpg,Narok,ODM,Elected
+15,2020-04-03 14:28:23,2020-04-03 14:28:25,1,1,Sen. Omanga Millicent,http://www.parliament.go.ke/sites/default/files/2020-02/Sen.%20Millicent%20Omanga.jpg,Nairobi Delegation,JP,Nominated
+16,2020-04-04 14:28:23,2020-04-04 14:28:25,1,1,Sen. Orengo James,http://www.parliament.go.ke/sites/default/files/2020-02/Sen.%20James%20Orengo.jpg,Siaya,ODM,Elected
+17,2020-04-05 14:28:23,2020-04-05 14:28:25,1,1,Sen. Outa Fredrick Otieno,http://www.parliament.go.ke/sites/default/files/2017-10/b9eca47d3d5e30f0d74193059336dc22_M.jpg,Kisumu,ODM,Elected
+18,2020-04-06 14:28:23,2020-04-06 14:28:25,1,1,Sen. Pareno Judith Ramaita,http://www.parliament.go.ke/sites/default/files/2017-10/34fed0855a31e44e5f62b48104bae799_M.jpg,Kajiado Delegation,ODM,Nominated
+19,2020-04-07 14:28:23,2020-04-07 14:28:25,1,1,Sen. Poghisio Samuel Losuron,http://www.parliament.go.ke/sites/default/files/2017-10/d9bdb14eb0a9b1023a46137e4aceaf72_M.jpg,West Pokot,KANU,Elected
+20,2020-04-08 14:28:23,2020-04-08 14:28:25,1,1,Sen. Prengei Victor,http://www.parliament.go.ke/sites/default/files/2017-10/a2026f89d280329c069891e204646a61_M.jpg,Nakuru Delegation,JP,Nominated
+21,2020-04-09 14:28:23,2020-04-09 14:28:25,1,1,Sen. Boy Issa Juma,http://www.parliament.go.ke/sites/default/files/2017-10/4ca82b82130c674ad1cbfe141bf3b920_M.jpg,Kwale,ODM,Elected
+22,2020-04-10 14:28:23,2020-04-10 14:28:25,1,1,Sen. Chebeni Mercy,http://www.parliament.go.ke/sites/default/files/2017-10/e12525d5f4416a265f8f530066cc05c0_M.jpg,Uasin Gishu Delegation,ODM,Nominated
+23,2020-04-11 14:28:23,2020-04-11 14:28:25,1,1,Sen. Cherarkey Samson K,http://www.parliament.go.ke/sites/default/files/2017-10/d5992e48a3de38d31d3f7fc325ba2651_M.jpg,Nandi,JP,Elected
+24,2020-04-12 14:28:23,2020-04-12 14:28:25,1,1,Sen. Cheruiyot Aaron Kipkirui,http://www.parliament.go.ke/sites/default/files/2020-02/Sen.%20Cheruiyot.jpg,Kericho,JP,Elected
+25,2020-04-13 14:28:23,2020-04-13 14:28:25,1,1,Sen. Dr. Ochilo G.M. Ayacko.,http://www.parliament.go.ke/sites/default/files/2019-01/Sen.%20Dr.%20Ochilo%20G.M.%20Ayacko._0.jpg,Migori,ODM,Elected
+26,2020-04-14 14:28:23,2020-04-14 14:28:25,1,1,Sen. Gona Christine Zawadi,http://www.parliament.go.ke/sites/default/files/2020-02/Zawadi-Gona-Christine.jpg,Kilifi Delegation,JP,Nominated
+27,2020-04-15 14:28:23,2020-04-15 14:28:25,1,1,Sen. Haji Farhiya Ali,http://www.parliament.go.ke/sites/default/files/2017-10/0a7d97071828da65151775fc572477c0_M.jpg,Nairobi Delegation,JP,Nominated
+28,2020-04-16 14:28:23,2020-04-16 14:28:25,1,1,Sen. Haji Mohamed Yusuf,http://www.parliament.go.ke/sites/default/files/2017-10/33e97b31f7f1473b08265f33c8ce0df5_M.jpg,Garissa,JP,Elected
+29,2020-04-17 14:28:23,2020-04-17 14:28:25,1,1,Sen. Halake Abshiro Soka,http://www.parliament.go.ke/sites/default/files/2020-07/Sen.%20Abshiro.jpg,Isiolo Delegation,KANU,Nominated
+30,2020-04-18 14:28:23,2020-04-18 14:28:25,1,1,Sen. Hargura Godana,http://www.parliament.go.ke/sites/default/files/2017-10/ba357ac7afbad42ac8b25041c150b8d1_M.jpg,Marsabit,JP,Elected
+31,2020-04-19 14:28:23,2020-04-19 14:28:25,1,1,Sen. Mbito Michael Maling’a,http://www.parliament.go.ke/sites/default/files/2017-10/e24cfae7f84287c076a251ad29dd373a_M.jpg,Trans Nzoia,JP,Elected
+32,2020-04-20 14:28:23,2020-04-20 14:28:25,1,1,Sen. Mogeni Erick Okong’o,http://www.parliament.go.ke/sites/default/files/2017-10/ac07d9048fd094110f394261b5593b54_M.jpg,Nyamira,ODM,Elected
+33,2020-04-21 14:28:23,2020-04-21 14:28:25,1,1,Sen. Moi Gideon Kipsielei,http://www.parliament.go.ke/sites/default/files/2017-10/5ff9e7aed4b0e3579983191e3223a3de_M.jpg,Baringo,KANU,Elected
+34,2020-04-22 14:28:23,2020-04-22 14:28:25,1,1,Sen. Mpaayei Phillip Salau,http://www.parliament.go.ke/sites/default/files/2020-02/Philip-Salau-Mpaayei_0.jpg,Kajiado,JP,Elected
+35,2020-04-23 14:28:23,2020-04-23 14:28:25,1,1,Sen. Mugo Beth Wambui,http://www.parliament.go.ke/sites/default/files/2017-10/55097f9559083383e45911635c552374_M.jpg,Nairobi Delegation,JP,Nominated
+36,2020-04-24 14:28:23,2020-04-24 14:28:25,1,1,Sen. Murkomen Onesimus Kipchumba,http://www.parliament.go.ke/sites/default/files/2020-02/Kipchumba-Murkomen-1_0.jpg,Elgeyo Marakwet,JP,Elected
+37,2020-04-25 14:28:23,2020-04-25 14:28:25,1,1,Sen. Mwangi Paul Githiomi,http://www.parliament.go.ke/sites/default/files/2017-10/f7067fbd602227e1a142c38a47a74e8c_M.jpg,Nyandarua,JP,Elected
+38,2020-04-26 14:28:23,2020-04-26 14:28:25,1,1,Sen. Mwaruma Johnes M,http://www.parliament.go.ke/sites/default/files/2020-02/Sen.%20Johnes%20Mwaruma.jpg,Taita Taveta,ODM,Elected
+39,2020-04-27 14:28:23,2020-04-27 14:28:25,1,1,Sen. Mwaura Isaac,http://www.parliament.go.ke/sites/default/files/2020-02/Sen.%20Isaac%20Mwaura.jpg,Kiambu Delegation,JP,Nominated
+40,2020-04-28 14:28:23,2020-04-28 14:28:25,1,1,Sen. Mwinyihaji Mohamed,http://www.parliament.go.ke/sites/default/files/2017-10/5cf40067d6708c5b304c99c7d81ad1b6_M.jpg,Mombasa,ODM,Elected
+41,2020-04-29 14:28:23,2020-04-29 14:28:25,1,1,Sen. Sakaja Johnson Arthur,http://www.parliament.go.ke/sites/default/files/2020-02/Sen.%20Sakaja.jpeg,Nairobi,JP,Elected
+42,2020-04-30 14:28:23,2020-04-30 14:28:25,1,1,Sen. Seneta Mary Yiane,http://www.parliament.go.ke/sites/default/files/2017-10/12aeffefa4c6755e65b4ef913f848251_M.jpg,Kajiado Delegation,JP,Nominated
+43,2020-05-01 14:28:23,2020-05-01 14:28:25,1,1,Sen. Wako Sitswila Amos,http://www.parliament.go.ke/sites/default/files/2017-10/16d498f0bc740a6e2490611597bb103d_M.jpg,Busia,ODM,Elected
+44,2020-05-02 14:28:23,2020-05-02 14:28:25,1,1,Sen. Wambua Enoch Kiio,http://www.parliament.go.ke/sites/default/files/2017-10/830911234d1f27380eae9a6b119f1fb7_M.jpg,Kitui,WDM-K,Elected
+45,2020-05-03 14:28:23,2020-05-03 14:28:25,1,1,Sen. Waqo Naomi Jilo,http://www.parliament.go.ke/sites/default/files/2017-10/b158364f4293dd939f0251be3690d060_M.jpg,Marsabit Delegation,JP,Nominated
+46,2020-05-04 14:28:23,2020-05-04 14:28:25,1,1,Sen. Wario Golich Juma,http://www.parliament.go.ke/sites/default/files/2017-10/646fde569dc2bfa74bc285a6acc1e1bf_M.jpg,Tana River,JP,Elected
+47,2020-05-05 14:28:23,2020-05-05 14:28:25,1,1,Sen. Wetang’ula Moses Masika,http://www.parliament.go.ke/sites/default/files/2017-10/25bfba7431836cae20efc2f79f1f821d_M.jpg,Bungoma,FORD-K,Elected
+48,2020-05-06 14:28:23,2020-05-06 14:28:25,1,1,Sen. Kimani Wamatangi Paul,http://www.parliament.go.ke/sites/default/files/2017-10/a6eab51a7068cefac7709d0e968987f7_M.jpg,Kiambu,JP,Elected
+49,2020-05-07 14:28:23,2020-05-07 14:28:25,1,1,Sen. Kindiki Kithure,http://www.parliament.go.ke/sites/default/files/2020-02/Sen.%20Kithure%20Kindiki.jpg,Tharaka Nithi,JP,Elected
+50,2020-05-08 14:28:23,2020-05-08 14:28:25,1,1,Sen. Linturi Franklin Mithika,http://www.parliament.go.ke/sites/default/files/2017-10/4a2662994c6abdc171531b2b6af6a4de_M.jpg,Meru,JP,Elected
+51,2020-05-09 14:28:23,2020-05-09 14:28:25,1,1,Sen. Loitiptip Anuar,http://www.parliament.go.ke/sites/default/files/2017-10/0a9c4647017995b1a5a50326a05e6fcf_M.jpg,Lamu,JP,Elected
+52,2020-05-10 14:28:23,2020-05-10 14:28:25,1,1,Sen. Lokorio Petronila Were,http://www.parliament.go.ke/sites/default/files/2017-10/78670d8df485ae375d04cfa0354efefa_M.jpg,Nairobi Delegation,ANC,Nominated
+53,2020-05-11 14:28:23,2020-05-11 14:28:25,1,1,Sen. Madzayo Stewart Mwachiru,http://www.parliament.go.ke/sites/default/files/2017-10/b9deed2baf78623484fc2170479f5cfb_M.jpg,Kilifi,ODM,Elected
+54,2020-05-12 14:28:23,2020-05-12 14:28:25,1,1,Sen. Mahamud Mohamed M,http://www.parliament.go.ke/sites/default/files/2017-10/30c159f7039f4f65df10cdb5a5bd4371_M.jpg,Mandera,JP,Elected
+55,2020-05-13 14:28:23,2020-05-13 14:28:25,1,1,Sen. Makori Beatrice Kwamboka,http://www.parliament.go.ke/sites/default/files/2017-10/f314dfc9c926bccc6099265dd6e8b176_M.jpg,Nairobi Delegation,ODM,Nominated
+56,2020-05-14 14:28:23,2020-05-14 14:28:25,1,1,Sen. Malala Cleophas W,http://www.parliament.go.ke/sites/default/files/2019-04/PHOTO-2019-04-15-11-11-56.jpg,Kakamega,ANC,Elected
+57,2020-05-15 14:28:23,2020-05-15 14:28:25,1,1,Sen. Masitsa Naomi Shiyonga,http://www.parliament.go.ke/sites/default/files/2017-10/a5db8c1256359d5e22d55281b76436ae_M.jpg,Kakamega Delegation,ODM,Nominated
+58,2020-05-16 14:28:23,2020-05-16 14:28:25,1,1,Sen. Iman Falhada Dekow,http://www.parliament.go.ke/sites/default/files/2017-10/87a7ff7a4a8fb0e9da560f1cfab2bbd7_M.jpg,Garissa Delegation,JP,Nominated
+59,2020-05-17 14:28:23,2020-05-17 14:28:25,1,1,Sen. Kabaka Boniface Mutinda,http://www.parliament.go.ke/sites/default/files/2017-10/de22ba29164cd345f1525b433b4de729_M.jpg,Machakos,CCU,Elected
+60,2020-05-18 14:28:23,2020-05-18 14:28:25,1,1,Sen. Kajwang’ Moses Otieno,http://www.parliament.go.ke/sites/default/files/2017-10/75c9e484a584dcf8cadef40577ad1f28_M.jpg,Homa Bay,ODM,Elected
+61,2020-05-19 14:28:23,2020-05-19 14:28:25,1,1,Sen. Kamar Margaret Jepkoech,http://www.parliament.go.ke/sites/default/files/2018-10/Photo%20for%20website.jpg,Uasin Gishu,JP,Elected
+62,2020-05-20 14:28:23,2020-05-20 14:28:25,1,1,Sen. Kang’ata Irungu,http://www.parliament.go.ke/sites/default/files/2020-02/Sen.%20Irungu%20Kangata.jpg,Murang'a,JP,Elected
+63,2020-05-21 14:28:23,2020-05-21 14:28:25,1,1,Sen. Kasanga Sylvia Mueni,http://www.parliament.go.ke/sites/default/files/2017-10/63e53c5a0a578af2915bca6ca3be5646_M.jpg,Nairobi Delegation,WDM-K,Nominated
+64,2020-05-22 14:28:23,2020-05-22 14:28:25,1,1,Sen. Khaniri George,http://www.parliament.go.ke/sites/default/files/2017-10/22f4ea961711bcef2dcb95904ab7d319_M.jpg,Vihiga,ANC,Elected
+65,2020-05-23 14:28:23,2020-05-23 14:28:25,1,1,Sen. Kibiru Charles Reubenson,http://www.parliament.go.ke/sites/default/files/2017-10/b6d3c040c822ea2760689bd68755158a_M.jpg,Kirinyaga,IND,Elected
+66,2020-05-24 14:28:23,2020-05-24 14:28:25,1,1,Sen. Kihika Susan Wakarura,http://www.parliament.go.ke/sites/default/files/2018-10/SEN%20KIHIKA%20PHOTO.JPG,Nakuru,JP,Elected
+67,2020-05-25 14:28:23,2020-05-25 14:28:25,1,1,Sen. Kilonzo Mutula Junior,http://www.parliament.go.ke/sites/default/files/2017-10/81460f786448ef802384de7a22471134_M.jpg,Makueni,WDM-K,Elected
